@@ -6,4 +6,4 @@
 动态库在程序运行时按需加载，可被多个程序共享，节省空间
 # 环境变量
 环境变量是系统的参数，告诉程序去哪找库文件等资源，像给程序指路的标识
-![样例]（mage.png）
+![样例]（https://github.com/Wang-git66/Wang/blob/main/mage.png）
